@@ -11,6 +11,7 @@ class Program
     {
         char opcion;
 
+        opcion = char.Parse(Console.ReadLine());
         return (opcion);
     }
 }
