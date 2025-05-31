@@ -6,4 +6,11 @@ class Program
     {
         Console.WriteLine("Hello, World!");
     }
+
+    static char Menu()
+    {
+        char opcion;
+
+        return (opcion);
+    }
 }
